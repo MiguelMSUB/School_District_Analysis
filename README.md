@@ -7,20 +7,36 @@ The school board has notified that the students_complete.csv file shows evidence
 
 ## Results: 
 
-### How is the district summary affected?
-The following images reflects two mayor changes...
+* How is the district summary affected?
 
-Before
-![This is an image]()
-After
-![This is an image]()
+The following images reflects how the District Summary changed and we can observe that the district's metrics went down on Average Math Score, % Passing Math and %Overal Passing.
 
-### How is the school summary affected?
-### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
-### How does replacing the ninth-grade scores affect the following:
-### Math and reading scores by grade
-### Scores by school spending
-### Scores by school size
-### Scores by school type
+Before replacing math scores from Thomas High School 9th graders.
+![This is an image](Resources/district_summary_before.png)
+
+After replacing math scores from Thomas High School 9th graders.
+
+![This is an image](Resources/district_summary_after.png)
+
+* How is the school summary affected?
+
+After replacing the 9th graders math scores, the school summary places TSH  2nd place in the school summary. 
+
+![This is an image](Resources/Per_schoolSummary.png)
+
+
+
+
+*  How does replacing the ninth-grade scores affect the following:
+
+1.  Math and reading scores by grade
+![This is an image](Resources/ScoresByGrade.png)
+
+2.  Scores by school spending
+![This is an image](Resources/Spending.png)
+3.  Scores by school size
+![This is an image](Resources/PerSchoolsize.png)
+4.  Scores by school type
+![This is an image](Resources/PerSchoolType.png)
 
 ## Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
